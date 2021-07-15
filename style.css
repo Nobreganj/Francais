@@ -55,7 +55,7 @@ li span {
 
 @media all and (max-width: 768px) {
   h4 {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
   
   li {
@@ -64,6 +64,6 @@ li span {
   }
   
   li span {
-    ont-size: 1.8rem;
+    font-size: 1.8rem;
   }
 }

@@ -4,7 +4,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  //let birthday = "2021-07-28T08:00:00.000Z";
+  //let birthday = "2021-07-29T09:00:00.000Z";
   //birthdayUtc = Date.parse(birthday);
   //nowUtc = Date.parse(new Date().toISOString());
       //countDown = new Date(birthday).getTime(),
